@@ -15,6 +15,11 @@
 - Comando para parada do elevador.
 - Consulta ao estado (andar) do elevador.
 - Ligar e desligar luz de botões de chamada elevador.
+- Elevador somente se movimenta com porta fechada.
+- Elevador reduz velocidade ao se aproximar de andar desejado.
+- Portas se abrem apenas quando elevador está completamente parado no andar solicitado.
+- Elevador tem tolerância de erro de andar (degrau) de 10%.
+
 
 
 
