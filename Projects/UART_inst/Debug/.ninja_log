@@ -1,0 +1,9 @@
+# ninja log v5
+1	46	6517737898628917	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/startup_TM4C1294.o	1f09b0a74cb701c6
+27	190	6517737899975310	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/RTX_Config.o	803a40e555800d91
+9	226	6517737900244591	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/rtx_lib.o	6448ba7083b18f1e
+32	258	6517737900603633	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/system_TM4C1294_TW.o	3d12759fe8265bfa
+52	493	6517737902924227	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/UART_inst.o	8463aaa02d0d3d9c
+208	683	6517737904924286	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Obj/uartstdio.o	ce2febe61b360d25
+705	832	6517737906395800	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.out	5867cca0e89dd3a5
+852	861	6517737906804704	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/ewarm/Exe/UART_inst.bin	87b17d65114feb1f

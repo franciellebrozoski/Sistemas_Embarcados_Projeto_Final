@@ -1,0 +1,16 @@
+# ninja log v5
+1	217	6517734150000000	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.xcl	2b085f253131c05
+14	243	6517734150000000	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.xcl	dc11051d530de13a
+9	264	6517734150000000	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.xcl	ea4e69e5c4e6b66
+6	285	6517734150000000	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.xcl	70e3f5936a92f009
+235	430	6517734160000000	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.xcl	3e2a4fdda1a926e4
+283	502	6517734161609439	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/RTX_Config.pbi	5d2ede0ba051d9a4
+302	530	6517734161881906	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/rtx_lib.pbi	185a6c7dbe2e2f5d
+535	575	6517734162340689	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part0.pbi	b0265910e803c204
+261	613	6517734162699707	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/uartstdio.pbi	18ba56ba841dc36d
+618	643	6517734163013999	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part2.pbi	d1a1543e1a46685f
+448	715	6517734163732066	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbi	b7653b7c04afb1d
+508	726	6517734163831791	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/system_TM4C1294_TW.pbi	d68de7d12123e905
+731	778	6517734164370347	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst_part1.pbi	189282511500230a
+783	857	6517734165158259	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbd	5e4523872a0f7cb0
+864	2131	6517734177600160	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/UART_inst/Debug/BrowseInfo/UART_inst.pbw	22cb58e0ce7e9de7

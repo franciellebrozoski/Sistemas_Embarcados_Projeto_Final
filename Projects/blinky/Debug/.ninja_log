@@ -1,0 +1,9 @@
+# ninja log v5
+1	58	6517736583958035	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/startup_TM4C1294.o	b00749ff1f3ea298
+16	170	6517736584995402	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/RTX_Config.o	33690aa7e5c3e79a
+7	260	6517736585863074	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/blinky.o	48b9983ed1109339
+64	286	6517736586022646	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/system_TM4C1294_TW.o	523cb9654e325ba6
+12	327	6517736586581164	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/driverleds.o	cc82b328403ef961
+184	357	6517736586860403	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Obj/rtx_lib.o	66c60718137c7479
+369	1078	6517736594017722	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Exe/blinky.out	7981fbd9c9f4dd32
+1094	1234	6517736595719964	C:/Users/brozo/Documents/utfpr 2021 2/Embarcados/Projeto final/TM4C1294_RTOS_IAR9-main/Projects/blinky/ewarm/Exe/blinky.bin	887aedf0890d645a
