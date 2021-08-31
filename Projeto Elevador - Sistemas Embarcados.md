@@ -16,6 +16,7 @@
 - O  usuário quando dentro do elevador, deverá selecionar o andar desejado em seu painel interno, através de pressionamento de botão.
 - O elevador deverá fechar completamente as portas ao ser solicitado andar de destino através do painel interno.
 - O elevador deverá iniciar subida/descida de maneira suave e acelerar até sua velocidade máxima gradativamente.
+- O elevador deverá ser capaz de atender a várias solicitações e atender aos andares na ordem de proximidade com o andar.
 
 
 
